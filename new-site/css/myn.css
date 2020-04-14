@@ -1,0 +1,194 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+font-family: oxygen
+
+
+	/*height: 20000px*/
+}
+#header-nav{
+	/*background-color: #f6b319;*/
+	border-radius: 0;
+	border: 0;
+}
+
+#link-one{
+	margin-top: 15px;
+	font-weight: bold;
+	color: #f1f1f1;
+	font-size: 1.5em;
+}
+
+
+#box{
+	border: 2px solid #222;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	padding-bottom: 30px;
+}
+#tile {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	border: 2px solid #333;
+padding: 21px 12px;
+width: 200px;
+position: absolute;
+right: : 0;
+top:  0;
+}
+#tile:hover{
+	background-color: #222;
+	color: #fff;
+}
+#html-h{
+	margin-top: 80px;
+	border-bottom: 2px solid #333;
+	border-top: 2px solid #222;
+}
+#css-c{
+	margin-top: 80px;
+	border-top: 2px solid #222;
+	border-bottom: 2px solid #333;
+
+
+
+}
+#js-j{
+	margin-top: 80px;
+	border-top: 2px solid #222;
+	border-bottom: 2px solid #333;
+	
+
+
+}
+#link-tow{
+	border: 1px solid red;
+	border-radius: 20px;
+	padding: 10px 21px;
+	background-color: #333;
+	color: #f1f1f1;
+	position: absolute;
+	left: 4px;
+	bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*********lagre devices anly******/
+
+@media (min-width: 1200px){
+
+}
+
+
+
+
+
+/*********medium devices anly******/
+@media (min-width: 992px) and (max-width: 1199px){
+.text-center{
+	font-size: 4em;
+}
+}
+
+
+/*********small devices anly******/
+@media (min-width: 786px) and (max-width: 991px){
+
+
+
+
+
+/*********extra devices anly******/
+@media (max-width: 767px){ 
+
+
+
+
+
+
+
+
+@media (max-width: 479px){
+	
+	#link-tow{
+		text-align: center;
+		text-transform: uppercase;
+	}
+}
+
+
+
